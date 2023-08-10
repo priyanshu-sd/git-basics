@@ -1,2 +1,5 @@
 HEllo workd
+<<<<<<< HEAD
 added more content
+=======
+>>>>>>> 7acbae7 (added first file)
