@@ -1,5 +1,2 @@
-HEllo workd
-<<<<<<< HEAD
+HEllo world 
 added more content
-=======
->>>>>>> 7acbae7 (added first file)
